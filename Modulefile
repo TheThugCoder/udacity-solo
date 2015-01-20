@@ -1,0 +1,10 @@
+name          'udacity-solo'
+version       '0.1.0'
+source        'https://github.com/udacity/udacity-solo'
+author        'udacity'
+license       'Apache 2.0'
+summary       'Takes care of basic things one might want for a box/container running a single service.'
+description   ''
+project_page  'https://github.com/udacity/udacity-solo'
+
+dependency 'puppetlabs/stdlib'
